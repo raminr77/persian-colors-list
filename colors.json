@@ -1,0 +1,559 @@
+{
+    "colors": [{
+            "color-name": "مشکی",
+            "color-hex": "#212121"
+        },
+        {
+            "color-name": "سفید",
+            "color-hex": "#FFFFFF"
+        },
+        {
+            "color-name": "قرمز",
+            "color-hex": "#f44336"
+        },
+        {
+            "color-name": "آبی",
+            "color-hex": "#2196f3"
+        },
+        {
+            "color-name": "زرد",
+            "color-hex": "#ffeb3b"
+        },
+        {
+            "color-name": "سبز",
+            "color-hex": "#00e676"
+        },
+        {
+            "color-name": "صورتی",
+            "color-hex": "#FF80AB"
+        },
+        {
+            "color-name": "بنفش",
+            "color-hex": "#9C27B1"
+        },
+        {
+            "color-name": "سرمه ای",
+            "color-hex": "#002171"
+        },
+        {
+            "color-name": "خاکستری",
+            "color-hex": "#9E9E9E"
+        },
+        {
+            "color-name": "نقره ای",
+            "color-hex": "#dedede"
+        },
+        {
+            "color-name": "نوک مدادی",
+            "color-hex": "#424242"
+        },
+        {
+            "color-name": "قهوه ای",
+            "color-hex": "#562e1f"
+        },
+        {
+            "color-name": "طلایی",
+            "color-hex": "#c99212"
+        },
+        {
+            "color-name": "زرشکی",
+            "color-hex": "#6a1313"
+        },
+        {
+            "color-name": "نارنجی",
+            "color-hex": "#ff5722"
+        },
+        {
+            "color-name": "فیروزه ای",
+            "color-hex": "#4ddcd7"
+        },
+        {
+            "color-name": "سبز فسفری",
+            "color-hex": "#5ac104"
+        },
+        {
+            "color-name": "یشمی",
+            "color-hex": "#9e9d24"
+        },
+        {
+            "color-name": "زیتونی",
+            "color-hex": "#84831c"
+        },
+        {
+            "color-name": "پوست پیازی",
+            "color-hex": "#c48a89"
+        },
+        {
+            "color-name": "زرد خردلی",
+            "color-hex": "#d0a40a"
+        },
+        {
+            "color-name": "یاسی",
+            "color-hex": "#fce4ec"
+        },
+        {
+            "color-name": "گل بهی",
+            "color-hex": "#FF8A81"
+        },
+        {
+            "color-name": "سبز آبی",
+            "color-hex": "#00fff0"
+        },
+        {
+            "color-name": "کرم",
+            "color-hex": "#ffecca"
+        },
+        {
+            "color-name": "نسکافه ای",
+            "color-hex": "#a98274"
+        },
+        {
+            "color-name": "سفید صدفی",
+            "color-hex": "#f3f3f3"
+        },
+        {
+            "color-name": "بژ",
+            "color-hex": "#e6dab3"
+        },
+        {
+            "color-name": "مسی",
+            "color-hex": "#e65319"
+        },
+        {
+            "color-name": "چند رنگ",
+            "color-hex": "#C71585"
+        },
+        {
+            "color-name": "نقره ای آبی",
+            "color-hex": "#c2d3da"
+        },
+        {
+            "color-name": "بی رنگ",
+            "color-hex": "#FFFFFE"
+        },
+        {
+            "color-name": "بی رنگ مات",
+            "color-hex": "#e5e5e5"
+        },
+        {
+            "color-name": "بی رنگ شفاف",
+            "color-hex": "#f5fafd"
+        },
+        {
+            "color-name": "ماهگونی",
+            "color-hex": "#3f1e1f"
+        },
+        {
+            "color-name": "طوسی",
+            "color-hex": "#e0e0e0"
+        },
+        {
+            "color-name": "بنفش تیره",
+            "color-hex": "#24002b"
+        },
+        {
+            "color-name": "شکلاتی",
+            "color-hex": "#3d2217"
+        },
+        {
+            "color-name": "آبی تیره",
+            "color-hex": "#4c5e74"
+        },
+        {
+            "color-name": "آبی روشن",
+            "color-hex": "#40aaff"
+        },
+        {
+            "color-name": "سبز روشن",
+            "color-hex": "#4dff97"
+        },
+        {
+            "color-name": "سبز تیره",
+            "color-hex": "#007e33"
+        },
+        {
+            "color-name": "سرخابی",
+            "color-hex": "#f50057"
+        },
+        {
+            "color-name": "صورتی تیره",
+            "color-hex": "#a41147"
+        },
+        {
+            "color-name": "قهوه ای تیره",
+            "color-hex": "#392622"
+        },
+        {
+            "color-name": "قهوه ای روشن",
+            "color-hex": "#7b584c"
+        },
+        {
+            "color-name": "رز گلد",
+            "color-hex": "#ff9e80"
+        },
+        {
+            "color-name": "مات",
+            "color-hex": "#b0b0b0"
+        },
+        {
+            "color-name": "براق",
+            "color-hex": "#f1f1f1"
+        },
+        {
+            "color-name": "زرد کم‌رنگ",
+            "color-hex": "#f6f0bb"
+        },
+        {
+            "color-name": "نارنجی کم‌رنگ",
+            "color-hex": "#ffaf47"
+        },
+        {
+            "color-name": "مشکی مات",
+            "color-hex": "#443c3c"
+        },
+        {
+            "color-name": "مشکی براق",
+            "color-hex": "#000000"
+        },
+        {
+            "color-name": "آفتابی",
+            "color-hex": "#fdf9d6"
+        },
+        {
+            "color-name": "مهتابی",
+            "color-hex": "#f4fcff"
+        },
+        {
+            "color-name": "سفید یخی",
+            "color-hex": "#E1F5FE"
+        },
+        {
+            "color-name": "سفید چرمی",
+            "color-hex": "#fdf3d9"
+        },
+        {
+            "color-name": "استیل",
+            "color-hex": "#ebebeb"
+        },
+        {
+            "color-name": "نقره‌ای چرمی",
+            "color-hex": "#766f6f"
+        },
+        {
+            "color-name": "لیمویی طلایی",
+            "color-hex": "#f3ff70"
+        },
+        {
+            "color-name": "برنز",
+            "color-hex": "#c77b30"
+        },
+        {
+            "color-name": "کالباسی",
+            "color-hex": "#ffb1b9"
+        },
+        {
+            "color-name": "صورتی خاکستری",
+            "color-hex": "#b498a1"
+        },
+        {
+            "color-name": "ذغالی",
+            "color-hex": "#2f2f2f"
+        },
+        {
+            "color-name": "تیتانیومی",
+            "color-hex": "#b2abb2"
+        },
+        {
+            "color-name": "طلایی مات",
+            "color-hex": "#8a6b1f"
+        },
+        {
+            "color-name": "گیلاسی",
+            "color-hex": "#B71C1C"
+        },
+        {
+            "color-name": "کروم",
+            "color-hex": "#dadada"
+        },
+        {
+            "color-name": "آبی متالیک",
+            "color-hex": "#6683cc"
+        },
+        {
+            "color-name": "صورتی روشن",
+            "color-hex": "#ff92b7"
+        },
+        {
+            "color-name": "بنفش روشن",
+            "color-hex": "#d05ce3"
+        },
+        {
+            "color-name": "قرمز مات",
+            "color-hex": "#790b16"
+        },
+        {
+            "color-name": "نقره‌ای مات",
+            "color-hex": "#BDBDBD"
+        },
+        {
+            "color-name": "سبز کله غازی",
+            "color-hex": "#01554b"
+        },
+        {
+            "color-name": "زرد نباتی",
+            "color-hex": "#fdeb4b"
+        },
+        {
+            "color-name": "سبز سدری",
+            "color-hex": "#606300"
+        },
+        {
+            "color-name": "سرمه ای روشن",
+            "color-hex": "#0048a5"
+        },
+        {
+            "color-name": "سرمه ای تیره",
+            "color-hex": "#010136"
+        },
+        {
+            "color-name": "زرد لیمویی",
+            "color-hex": "#d2ff00"
+        },
+        {
+            "color-name": "قرمز آجری",
+            "color-hex": "#de3f1a"
+        },
+        {
+            "color-name": "شیری",
+            "color-hex": "#ffe5bf"
+        },
+        {
+            "color-name": "عسلی",
+            "color-hex": "#ffc001"
+        },
+        {
+            "color-name": "آبی نفتی",
+            "color-hex": "#10265b"
+        },
+        {
+            "color-name": "کرم تیره",
+            "color-hex": "#c2a986"
+        },
+        {
+            "color-name": "سبز یشمی",
+            "color-hex": "#558000"
+        },
+        {
+            "color-name": "آبی یخی",
+            "color-hex": "#d5f2ff"
+        },
+        {
+            "color-name": "هفت رنگ",
+            "color-hex": "#479494"
+        },
+        {
+            "color-name": "کردوبایی",
+            "color-hex": "#893f45"
+        },
+        {
+            "color-name": "برنجی",
+            "color-hex": "#9f8256"
+        },
+        {
+            "color-name": "ارغوانی",
+            "color-hex": "#9966cc"
+        },
+        {
+            "color-name": "طوسی روشن",
+            "color-hex": "#c3c3c3"
+        },
+        {
+            "color-name": "عنابی",
+            "color-hex": "#51241f"
+        },
+        {
+            "color-name": "قهوه‌ای شتری",
+            "color-hex": "#b56e4a"
+        },
+        {
+            "color-name": "قرمز روشن",
+            "color-hex": "#ff6464"
+        },
+        {
+            "color-name": "مرجانی",
+            "color-hex": "#f95e48"
+        },
+        {
+            "color-name": "آبی کدر",
+            "color-hex": "#768e9e"
+        },
+        {
+            "color-name": "زرد فسفری",
+            "color-hex": "#b1d61d"
+        },
+        {
+            "color-name": "خاکی",
+            "color-hex": "#cec1b1"
+        },
+        {
+            "color-name": "کروم مات",
+            "color-hex": "#A39E9A"
+        },
+        {
+            "color-name": "پلاتینیوم",
+            "color-hex": "#e5e4e2"
+        },
+        {
+            "color-name": "دودی",
+            "color-hex": "#696969"
+        },
+        {
+            "color-name": "طوسی فیلی",
+            "color-hex": "#838287"
+        },
+        {
+            "color-name": "مارون",
+            "color-hex": "#800000"
+        },
+        {
+            "color-name": "سبز کاهویی",
+            "color-hex": "#d5df80"
+        },
+        {
+            "color-name": "بژ براق",
+            "color-hex": "#F5F5DC"
+        },
+        {
+            "color-name": "قرمز شرابی",
+            "color-hex": "#722f37"
+        },
+        {
+            "color-name": "سبز مغز پسته ای",
+            "color-hex": "#93c572"
+        },
+        {
+            "color-name": "یاقوتی ",
+            "color-hex": "#E0115F"
+        },
+        {
+            "color-name": "آلومینیومی",
+            "color-hex": "#848789"
+        },
+        {
+            "color-name": "گردویی",
+            "color-hex": "#cd5c5c"
+        },
+        {
+            "color-name": "ارغوانی روشن",
+            "color-hex": "#bfbed4"
+        },
+        {
+            "color-name": "آبی رویال",
+            "color-hex": "#111E6C"
+        },
+        {
+            "color-name": "طلایی براق",
+            "color-hex": "#d4af37"
+        },
+        {
+            "color-name": "استخوانی",
+            "color-hex": "#fffff0"
+        },
+        {
+            "color-name": "بادمجانی",
+            "color-hex": "#341941"
+        },
+        {
+            "color-name": "کهربایی",
+            "color-hex": "#FFBF00"
+        },
+        {
+            "color-name": "لاجوردی",
+            "color-hex": "#00e1ff"
+        },
+        {
+            "color-name": "جگری",
+            "color-hex": "#821a1a"
+        },
+        {
+            "color-name": "آبی کاربنی",
+            "color-hex": "#191970"
+        },
+        {
+            "color-name": "طوسی تیره",
+            "color-hex": "#808080"
+        },
+        {
+            "color-name": "اخرایی",
+            "color-hex": "#cc7722"
+        },
+        {
+            "color-name": "آبی نیلی",
+            "color-hex": "#4682b4"
+        },
+        {
+            "color-name": "هلویی",
+            "color-hex": "#F4A460"
+        },
+        {
+            "color-name": "آلبالویی",
+            "color-hex": "#2f0909"
+        },
+        {
+            "color-name": "وانیلی",
+            "color-hex": "#efebdc"
+        },
+        {
+            "color-name": "سبز دریایی",
+            "color-hex": "#6accab"
+        },
+        {
+            "color-name": "گوجه ای",
+            "color-hex": "#ff6347"
+        },
+        {
+            "color-name": "نارنجی فسفری",
+            "color-hex": "#d93101"
+        },
+        {
+            "color-name": "كروم",
+            "color-hex": "e7e5e6"
+        },
+        {
+            "color-name": "آبی آسمانی",
+            "color-hex": "#e0ffff"
+        },
+        {
+            "color-name": "گندمی",
+            "color-hex": "#f5deb3"
+        },
+        {
+            "color-name": "کرم روشن",
+            "color-hex": "#ffdead"
+        },
+        {
+            "color-name": "بلوند روشن",
+            "color-hex": "#ece6cc"
+        },
+        {
+            "color-name": "نخودی",
+            "color-hex": "#eee8aa"
+        },
+        {
+            "color-name": "قهوه‌ای روشن مات",
+            "color-hex": "#5f3e24"
+        },
+        {
+            "color-name": "قهوه‌ای روشن براق",
+            "color-hex": "#b37e2b"
+        },
+        {
+            "color-name": "دودی متالیک",
+            "color-hex": "#A8A9AD"
+        },
+        {
+            "color-name": "قرمز تیره",
+            "color-hex": "#8B0000"
+        }
+    ]
+}
